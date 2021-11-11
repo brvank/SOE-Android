@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SOE</string>
+    <string name="company_name">CYCOOS SERVICES</string>
+    <string name="rights_reserved">All rights reserved</string>
+    <string name="copyright">\u00a9</string>
+    <string name="signup">SIGN UP</string>
+    <string name="login">LOG IN</string>
+    <string name="new_user">I am a new user, </string>
+    <string name="existing_user">I am an existing user, </string>
+</resources>
